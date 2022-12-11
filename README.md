@@ -3,8 +3,9 @@ The goal was to be able to solve the one dimensional Schrodinger’s equation of
 
 One Dimension:
 
-![](https://raw.githubusercontent.com/lukaswittmann/schrodinger-equation-potential-well/main/examples_1d/example_2.png)
-![](https://raw.githubusercontent.com/lukaswittmann/schrodinger-equation-potential-well/main/examples_1d/example_3.png)
+<img src="[url](https://raw.githubusercontent.com/lukaswittmann/schrodinger-equation-potential-well/main/examples_1d/example_2.png)" width="50%" height="50%">
+<img src="[url](https://raw.githubusercontent.com/lukaswittmann/schrodinger-equation-potential-well/main/examples_1d/example_3.png)" width="50%" height="50%">
+
 
 Two Dimensions:
 
